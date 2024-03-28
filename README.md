@@ -19,11 +19,11 @@ Below is a breakdown of the dataset's components:
 
 - **`title`**: The formal title of the research project.
 
-- **`abstract`**: The abstract of the research project.
+- **`objective`**: The abstract of the research project.
 
-- **`startingDate`**: The official start date of the project.
+- **`startDate`**: The official start date of the project.
 
-- **`endingDate`**: The project's designated conclusion date.
+- **`endDate`**: The project's designated conclusion date.
 
 - **`budget`**: The total funding amount allocated to the project (in EUR).
 
