@@ -27,12 +27,12 @@ Below is a breakdown of the dataset's components:
 
 - **`budget`**: The total funding amount allocated to the project (in EUR).
 
+- **`detectedWords`**: A list of keywords from the project's title and abstract that were identified as relevant to the SDGs, based on the lexicon used for textual analysis. 
+
 - **`SDG dummies`**: A set of binary (dummy) variables representing each of the 17 SDGs. A project is marked with a '1' for a specific SDG if it is determined to align with that goal based on keyword analysis, and '0' otherwise. 
 
 - **`target dummies`**: Similar to the SDG dummies, these binary variables are linked to the 169 specific targets under the 17 SDGs. They indicate whether a project aligns with specific targets.
-
-- **`detected words`**: A list of keywords from the project's title and abstract that were identified as relevant to the SDGs, based on the lexicon used for textual analysis. 
-
+- 
 - **`coordinatorName`**: Name of the coordinator.
 
 - **`coordinatorCountry`**: Country of origin of the coordinator
