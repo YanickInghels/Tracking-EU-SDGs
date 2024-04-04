@@ -3,7 +3,7 @@
 In 2015, the Sustainable Development Goals (SDGs) were introduced as a universal call to action to end poverty, protect the planet, and ensure prosperity for all by 2030
 Our project monitors how the European Union's research funding programs, starting from 1984, have supported these goals.
 We use textual analysis and the lexicon of the [EU Joint Research Centre](https://knowsdgs.jrc.ec.europa.eu/sdgmapper) to check the alignment of funded research projects, listed on [CORDIS](https://cordis.europa.eu/), with the SDGs.
-We provide a comprehensive dataset that associates these projects with the 17 SDGs and their 169 specific targets, as well as, an interactive dashboard **[insert ref here]** that is regularly updated with new data and insights. 
+We provide a comprehensive dataset that associates these projects with the 17 SDGs and their 169 specific targets, as well as, an [interactive dashboard](https://sdgdashboard.streamlit.app/) that is regularly updated with new data and insights. 
 
 ## Methodology
 We refer to Boudt et al. (2024) to get the full methodology. We deviate from this paper by including all projects, not just those coordinated by research-oriented entities.
